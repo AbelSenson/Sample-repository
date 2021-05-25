@@ -5,4 +5,5 @@ A sample repository
 
 ```python
 import numpy
+import pandas as pd
 ```
